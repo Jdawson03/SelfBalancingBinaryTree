@@ -17,3 +17,6 @@ In testing this effiency improvement with 21,000 nodes over an average of 100 te
 
 
 This task overall came when some coursework at Swansea University asked me to implement a Binary Tree and I tested it with an adversarial data set.
+
+
+Main classes are used to test each aspect of the code. 
