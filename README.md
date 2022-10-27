@@ -19,4 +19,4 @@ In testing this effiency improvement with 21,000 nodes over an average of 100 te
 This task overall came as part of a coursework at Swansea University but after testing it with an adverse data set, I decided to take it further.
 
 
-Main classes are used to test each aspect of the code
+Main classes are used to test each aspect of the code, with TimeTestMain being the most interesting class to test.
