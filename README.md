@@ -16,7 +16,7 @@ e.g.        becomes:
 In testing this effiency improvement with 21,000 nodes over an average of 100 tests, took the time to search for an item from roughly 80,000 nanoseconds to 140. The testing wasn't in sterile condidtions but gives a rough real world demonstartion of the improvement an AVL tree has in worst case scenarios compared to standards BST's.
 
 
-This task overall came when some coursework at Swansea University asked me to implement a Binary Tree and I tested it with an adversarial data set.
+This task overall came as part of a coursework at Swansea University but after testing it with an adverse data set, I decided to take it further.
 
 
-Main classes are used to test each aspect of the code. 
+Main classes are used to test each aspect of the code
